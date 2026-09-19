@@ -28,7 +28,7 @@
         <mxCell id="M_-L7nzyy6jI0_32nOSo-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=light-dark(#000000,#66CC00);align=center;verticalAlign=middle;strokeColor=light-dark(#5B5B75,#272A34);fillColor=none;fontStyle=0;" value="JENKINS" vertex="1">
           <mxGeometry height="38" width="111" x="-450" y="63.5" as="geometry" />
         </mxCell>
-        <mxCell id="M_-L7nzyy6jI0_32nOSo-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;strokeColor=light-dark(#5B5B75,#272A34);fillColor=none;fontSize=12;fontColor=light-dark(#000000,#9999FF);fontStyle=0;align=center;verticalAlign=middle;" value="Dockge" vertex="1">
+        <mxCell id="M_-L7nzyy6jI0_32nOSo-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;strokeColor=light-dark(#5B5B75,#272A34);fillColor=none;fontSize=12;fontColor=light-dark(#000000,#CC0000);fontStyle=0;align=center;verticalAlign=middle;" value="Dockge" vertex="1">
           <mxGeometry height="38" width="111" x="-323" y="63.5" as="geometry" />
         </mxCell>
         <mxCell id="M_-L7nzyy6jI0_32nOSo-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;strokeColor=light-dark(#5B5B75,#272A34);fillColor=none;fontSize=12;fontColor=default;fontStyle=0;align=center;verticalAlign=middle;" value="Minikube" vertex="1">
